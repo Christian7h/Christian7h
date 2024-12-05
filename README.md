@@ -36,18 +36,6 @@ Con experiencia en frameworks modernos como Astro, Tailwind CSS, TypeScript y Dj
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="ExpressJS" />
-      </a>
-      <br>ExpressJS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="ReactJS" />
       </a>
       <br>ReactJS
@@ -63,12 +51,6 @@ Con experiencia en frameworks modernos como Astro, Tailwind CSS, TypeScript y Dj
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="SASS" />
-      </a>
-      <br>SASS
     </td>
   </tr>
   <tr align="center">
@@ -107,18 +89,6 @@ Con experiencia en frameworks modernos como Astro, Tailwind CSS, TypeScript y Dj
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       </a>
       <br>Python
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      </a>
-      <br>Streamlit
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=discordjs" width="48" height="48" alt="DiscordJS" />
-      </a>
-      <br>DiscordJS
     </td>
     <td align="center" width="96">
       <br>
