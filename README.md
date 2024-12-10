@@ -10,7 +10,7 @@ Con experiencia en frameworks modernos como Astro, Tailwind CSS, TypeScript y Dj
 
 * 🌍  I'm based in Chile
 * ✉️  You can contact me at [cristianvillalobos666@gmail.com](mailto:cristianvillalobos666@gmail.com)
-* 🧠  I'm learning Astro
+* 🧠  I'm learning Astro and TypeScript 
 
 ### Skills
 
